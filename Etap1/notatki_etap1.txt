@@ -1,0 +1,55 @@
+Wizja:
+szablon jest podany
+Project name - jakaś nazwa projektu (nawet księgarnia)
+---------------------------------------------------
+Etap 1, data tworzenia wizji
+Punkt 1 wprowadzenie
+W tej części w kilku zdaniach opisujemy nasz system
+Księgarnia internetowa umożliwia klientom przeglądanie oferty sklepu, składanie zamówień itp nie trzeba dużo
+Punkt 2 pozycjonowanie
+---------------------------------------------------
+2.1 Sformułowanie problemu
+Tabelka w której wpisujemy problem (PO POLSKU)
+Np brak dostępu do katalogu
+Dotyczy klienta, utworzenie katalogu internetowego (???)
+Jak w jednej tabelce to w punktach albo tabelke powielić i każdy problem opisać osobną tabelką
+---------------------------------------------------
+2.2 Opis pozycji produktów
+Jedna tabelka i jej nie powielamy
+Wskaż docelowego klienta - chodzi o to, że nie chodzi o klienta który kupuje, tylko np księgarnia, bo ten system
+jest robiony dla księgarni (dla właściciela który to zlecił)
+Ten produkt jest dla tej księgarni
+Który która opisz potrzeby - co ta księgarnia chce zrobić, np. podnieść jakość sprzedaży produktów, książek
+Nazwa projektu to można w tej części pisać nazwę projektu ta co na górze i z prawej strony napisać że to webowa aplikacja (kategoria)
+Tylko w czarnej części coś wpisujemy to co nazwa projektu wszystko poza tym wypełniamy w białej części
+Wiersz ze słowem który, z prawej strony wskazać podstawową korzyść z produktu która ma przekonać do kupna, np.
+dostęp do katalogu, będzie efektywnie wspomagać sprzedaż
+Inaczej niż - wskaż główny produkt jakiegoś konkurenta (np aplikacja kolegów)
+Ostatni wiersz, wychwalamy się swoim produktem, np nasz produkt jest taki taki np katalog wyświetla w takiej takiej formie,
+pozwala na płatność internetową np BLIK, no coś trzeba wpisać (raz wypełniamy 2.2)
+---------------------------------------------------
+Punkt 3 opis udziałowców i użytkowników
+To jest ważna rzecz
+Kto jest użytkownikiem? Klienci i pracownicy
+Są pracownicy którzy obsługują system i napisać czym się zajmują
+Kto jest udziałowcem? Firma która zleca wykonanie systemu (np. ksiegarnia), właściciel, sponsorzy też ok, a jest jeszcze inna grupa:
+Informatycy z firmy która tworzy system
+Czyli trzeba napisać kto jest udziałowcem.
+Zakres odpowiedzialności - tam gdzie właściciel czy ogólnie księgarnia na pewno trzeba jako odpowiedzialność dać zdefiniowanie wymagań
+na system (!!!!!!!!!! WAŻNE)
+Firma informatyczna - odpowiedzialność: utworzenie systemu
+A co dopiszemy to dopiszemy
+Można jeszcze wymyślić prawdziwych sponsorów
+---------------------------------------------------
+Punkt 4 potrzeby i cechy
+Wziąć materiały z wykładu i tam jest formułujemy problemy, przekształcamy je w potrzeby, 
+np. jest potrzeba płatności internetowej i to można zaznaczyć że nasz system będzie się łączył z innym systemem i to umożliwiał
+Podajemy priorytet (must should itp) w wydaniu 1, 2 itp
+Potrzeb ma być dużo (wszystkie wymagania na system, te wymagania funkcjonalne)
+---------------------------------------------------
+Punkt 5 inne wymagania produktowe (niefunkcjonalne)
+Np. jaki system operacyjny powinien być zainstalowany, jaka przeglądarka, w jakim czasie będzie działał, jakie wersje językowe
+---------------------------------------------------
+Punkt 6 słownik pojęć - nie robimy według tabelki co jest podana, tylko tworzymy w Visual Paradigm i potem eksportujemy do PDF (do worda tez mozna)
+W instrukcji
+Przygotowanie narzędzia, struktura projektu, musimy utworzyć sobie profil, następnie (2.3) instrukcja związana ze słownikiem
